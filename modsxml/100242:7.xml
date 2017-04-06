@@ -105,7 +105,8 @@
          <title>Great Smoky Mountains National Park Tenn. N.C.</title>
       </titleInfo>
    </relatedItem>
-   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <accessCondition type="use and reproduction"
+                    xlink="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
    <recordInfo>
       <recordIdentifier>record_gsmrc-post_42_08</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
