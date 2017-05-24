@@ -33,7 +33,7 @@
     <xsl:template match="accessCondition">
         <xsl:copy>
             <xsl:apply-templates select="@*"/>
-            <xsl:attribute name="xlink">http://rightsstatements.org/vocab/CNE/1.0/</xsl:attribute>
+            <xsl:attribute name="xlink:href">http://rightsstatements.org/vocab/CNE/1.0/</xsl:attribute>
             <xsl:value-of select="'Copyright Not Evalutated'"/>
         </xsl:copy>
     </xsl:template>
