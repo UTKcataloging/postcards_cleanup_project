@@ -88,7 +88,7 @@
       </titleInfo>
    </relatedItem>
    <accessCondition type="use and reproduction"
-                    xlink="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evalutated</accessCondition>
    <recordInfo>
       <recordIdentifier>record_gsmrc-post_33_22</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
